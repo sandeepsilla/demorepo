@@ -805,7 +805,7 @@
                     <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
                     <li><a href="#"><em class="fas fa-percent"></em> Deals</a></li>
                     <li><a href="#"><em class="fas fa-info-circle"></em> About</a></li>
-                    <li><a href="#"><i class="fas fa-envelope"></i> Contact</a></li>
+                    <li><a href="#"><em class="fas fa-envelope"></em> Contact</a></li>
                 </ul>
             </nav>
             
